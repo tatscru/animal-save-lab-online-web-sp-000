@@ -9,7 +9,6 @@ html {
 }
 
 @media only screen and (min-width: 1196px) {
-  body {
-    font-size: 85%;
-  }
+  left: 800px;
+}
 /* Write your solution here */
