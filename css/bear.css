@@ -9,6 +9,7 @@ html {
 }
 
 @media only screen and (max-width: 1196px) {
-  left: 800px;
+  #bear {
+    left: 800px;
 }
 /* Write your solution here */
