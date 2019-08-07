@@ -18,9 +18,9 @@ html {
   right: 0;
 }
 
-@media only screen (min-width: )and (max-width: 1090px) {
+@media only screen (min-width: 642px)and (max-width: 1090px) {
   #dolphin {
-    font-size: 85%;
+    transform: rotate(1px)
   }
 
 /* Write your solution here */
