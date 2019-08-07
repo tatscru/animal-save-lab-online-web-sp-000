@@ -18,5 +18,9 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
+@media only screen (min-width: )and (max-width: 1090px) {
+  #dolphin {
+    font-size: 85%;
+  }
 
+/* Write your solution here */
